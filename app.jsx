@@ -58,7 +58,7 @@ class ProductTable extends React.Component{
     }
 }
 
-class SearchBar extends React.Components{
+class SearchBar extends React.Component{
     render(){
         return(
             <form>
